@@ -1,9 +1,9 @@
-# Coronavirus coverup is ‘China’s Chernobyl moment,’ warn 100 politicians, experts
+# Coronavirus coverup is ‘China's Chernobyl moment,’ warn 100 politicians, experts
 <cite style="border: 2px solid grey">
 Source: GlobalNews, by Amanda Connolly, Posted April 14, 2020 ; [Address](https://globalnews.ca/news/6814940/china-coronavirus-open-letter/)
 <cite>
 
-Trying to cover up the coronavirus pandemic marks China‘s “Chernobyl moment,” according to a new [open letter](https://www.macdonaldlaurier.ca/communist-partys-rule-fear-endangers-chinese-citizens-world-%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BE%9D%E9%9D%A0%E6%81%90%E5%90%93%E4%B8%BA%E4%B8%BB%E7%9A%84%E6%94%BF/).
+Trying to cover up the coronavirus pandemic marks China‘s “Chernobyl moment,” according to a new [Open Letter](https://www.macdonaldlaurier.ca/communist-partys-rule-fear-endangers-chinese-citizens-world-%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BE%9D%E9%9D%A0%E6%81%90%E5%90%93%E4%B8%BA%E4%B8%BB%E7%9A%84%E6%94%BF/).
 
 More than 100 international politicians and international policy experts have signed on to the letter, including former Canadian justice minister and human rights advocate [Irwin Cotler](https://globalnews.ca/tag/irwin-cotler/).
 
@@ -30,7 +30,7 @@ In the open letter, the experts say that in that coverup lies “the roots of th
 
 They urge people around the world to confront “an inconvenient truth” about China.
 
-“By politicizing all aspects of life including people’s health, continued autocratic one-party rule in the People’s Republic of China has endangered everyone,” they write, suggesting that the intentions of the Communist Party of China can no longer be trusted.
+“**By politicizing all aspects of life including people’s health, continued autocratic one-party rule in the People’s Republic of China has endangered everyone,**” they write, suggesting that the intentions of the Communist Party of China can no longer be trusted.
 
 “We should pay greater attention to the voices of what can be termed ‘unofficial’ China. These independent-minded academics, doctors, entrepreneurs, citizen journalists, public interest lawyers and young students no longer accept the CCP’s rule by fear. Neither should you.”
 
