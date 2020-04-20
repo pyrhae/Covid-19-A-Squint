@@ -17,6 +17,8 @@ Today, 16 April 2020, this disaster is still continuing. I begin to record this 
 ## 个人整理的粗略时间线：
 | 日期 | 事件 |         引用|
 | -- | --| --|
+|03.17 |中国驱逐美国记者 | -[NewYorkTimes, China Announces That It Will Expel American Journalists](https://www.nytimes.com/2020/03/17/business/media/china-expels-american-journalists.html)|
 |04.14 |Trump暂停了给WHO的资金| -[GlobalNews, Trump orders U.S. to halt funding to WHO over coronavirus response](https://globalnews.ca/news/6818210/trump-halts-us-funding-who-coronavirus/) |
+|04.16 |数字货币将在苏州相城区落地| -[央行数字货币应用将在苏州相城区落地](http://www.nbd.com.cn/articles/2020-04-16/1425918.html)<br> -[In May China’s digital currency to be used for transport payments in Suzhou](https://www.ledgerinsights.com/china-digital-currency-transport-payments-in-suzhou/)|
 |04.17 |武汉官方称病毒的死亡人数突增1290|-[GlobalNews,Wuhan adds 1,290 coronavirus deaths to its total count, citing overwhelmed hospitals](https://globalnews.ca/news/6831122/coronavirus-wuhan-death-toll-up/)|
 |04.18 |香港警方上门拘捕多名泛民人士| -[中国数字时代，香港警方上门拘捕多名泛民人士](https://chinadigitaltimes.net/chinese/2020/04/%e5%be%b7%e5%9b%bd%e4%b9%8b%e5%a3%b0%ef%bd%9c%e9%a6%99%e6%b8%af%e8%ad%a6%e6%96%b9%e4%b8%8a%e9%97%a8%e6%8b%98%e6%8d%95%e5%a4%9a%e5%90%8d%e6%b3%9b%e6%b0%91%e4%ba%ba%e5%a3%ab/)

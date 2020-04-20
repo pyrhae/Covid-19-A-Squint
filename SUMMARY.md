@@ -14,6 +14,7 @@
 ## English Materials
 
 * [Disclaimer](chap02English_Materials/README.MD)
+* [Whistler-Riptide](chap02English_Materials/Whistler-Riptide.MD)
 * [Opposition Faction](chap02English_Materials/Opposition_Faction/README.MD)
   * [China Chernobyl Moment](chap02English_Materials/Opposition_Faction/Chinas_Chernobyl_moment.md)
 * [The Moderates](chap02English_Materials/The_Moderates/README.MD)
