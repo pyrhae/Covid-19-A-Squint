@@ -25,7 +25,7 @@ This caused trouble for Affin. As the source of the transmission, she was interv
 
 In the afternoon of March 2nd, Affin received an interview with People in the Nanjing Road District of Wuhan Central Hospital. She was sitting alone in the emergency room office. The emergency department, which had admitted more than 1,500 patients a day, had returned to quiet. There was only one tramp lying in the emergency hall.
 
-According to some previous reports, Affin was called “another female doctor who has been instructed to surface,” and some people called her a “whistleblower”. It was the “whistler”. During the interview, Affin mentioned the word “regret” several times, and she regretted that she did not continue to whistle after being interviewed. Especially for the deceased colleague, “I knew today that I would criticize him for not criticizing,” Lao Tzu “Everywhere, right?”
+According to some previous reports, Affin was called “another female doctor who has been instructed to surface,” and some people called her a “whistleblower”. It was the “whistler”. During the interview, Affin mentioned the word “regret” several times, and she regretted that she did not continue to whistle after being interviewed. Especially for the deceased colleague, **“I knew today that I would criticize him for not criticizing,” Lao Tzu “Everywhere, right?”**
 
 About Wuhan Central Hospital and Affin what have they experienced in the past two months or so? The following is what Affin told—
 

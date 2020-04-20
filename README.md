@@ -2,7 +2,11 @@
 
 On 23 January 2020, news about Wuhan Lockdown spread on Internet. At that time, I was in home, a place in Hunan rural area, shocked by this news and other related news.
 
-Today, 16 April 2020, this disaster is still continuing. I begin to record this events, considering this events to be a turning point for China's history process and also a miletone for human being history.
+Today, 20 April 2020, this disaster is still continuing. I begin to record this events, considering this events to be a turning point for China's history process and also a miletone for human being history.
+
+What should we believe? Is the slight crying which are turning and lingering in the cranny of social web platform to listen? Them are covered up by the Chinese-style "Political Correct"、information blockout and public misleading. At last, different sounds of different politic stands and different request of different groups, are totally cracked down by one loud voice. People are indifferent and unconcerned about politics, for they are scared by politics; However, bad politics finally will catch those men with every kind of thorns also and thistles.
+
+What should we expect? Is there a century or maybe longer time to suffer the manipulating and fooling by the dictatorial government which drived from a thousand years feudalism. Do this ancient and old race which wagged forward still have a future? This virus events, actually is a post-modern inquiry for humankind. More and More high level technologies were introduced into the confronting with virus, which made the freedom in danger. Globalization became a joke, and also the conception of `a community of common destiny for all mankind`. The chasm between the dictatorial world and free world tear the flattering face of Capitalism into pieces.
 
 我们能相信什么呢？是社交网络平台上那些在夹缝中苟延残喘的微弱的呼救吗？它们随后被中国式的“政治正确”、信息封锁、混淆视听掩盖了。不同的政治声音，不同人群的诉求，最终被一个嘈杂的声音取缔了。人们不关心政治，因为他们害怕政治；但政治最终会以不同形式的压榨与剥削回到那些浑浑噩噩的人群中去。
 
