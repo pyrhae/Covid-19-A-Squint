@@ -15,8 +15,11 @@
 ## English Materials
 
 * [Disclaimer](chap02English_Materials/README.MD)
-* [Whistler-Riptide](chap02English_Materials/Whistler-Riptide.MD)
+* [The Whistle-giver](chap02English_Materials/Whistler-Riptide.MD)
 * [Opposition Faction](chap02English_Materials/Opposition_Faction/README.MD)
   * [China Chernobyl Moment](chap02English_Materials/Opposition_Faction/Chinas_Chernobyl_moment.md)
 * [The Moderates](chap02English_Materials/The_Moderates/README.MD)
   * [The World After Coronavirus](chap02English_Materials/The_Moderates/The_World_After_Coronavirus.md)
+
+## HK的衰落
+* [为自由而死](chap03香港的衰落/Died_for_Freedom.md)

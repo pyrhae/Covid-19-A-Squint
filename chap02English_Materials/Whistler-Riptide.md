@@ -1,10 +1,18 @@
-# Whistler-Riptide    发哨子的人英文版
+<style>
+  #newC {
+    color: coral
+  }
+</style>
+
+# The Whistle-giver    发哨子的人英文版
 
 <cite style="border: 2px solid grey">
 Source: China Digital Times; [Address](https://chinadigitaltimes.net/chinese/2020/03/%E6%88%88%E6%88%88%E7%82%B9%E5%95%8A-%E6%8E%A5%E5%8A%9B%E3%80%8A%E5%8F%91%E5%93%A8%E5%AD%90%E7%9A%84%E4%BA%BA%E3%80%8B%E8%8B%B1%E6%96%87%E7%89%88/)
 <cite>
 
-`Modifications on the original article marked in bold, coral color`
+Reference on the process of modifications:[Dr. Ai Fen, 艾芬, the Wuhan Whistle](https://scienceintegritydigest.com/2020/03/11/dr-ai-fen-the-wuhan-whistle/)
+
+At first,modifications on the original article marked in bold, coral color. When I was revising, I found a perfect completed article by others.And so many places need to modify, so I revised it compared to the completed one, just modify and don't ditinguish the modifications from the original. You can completely look over the article by the link I have given above.
 
 >On December 30, 2019, Affin received a virus test report for patients with unknown pneumonia. She circled the word “SARS coronavirus” in red. When asked by a college student, she took the report and circulated it. To this fellow student who is also a doctor. That night, the report spread to doctor circles in Wuhan, and those who forwarded the report included the eight doctors who were disciplined by the police.
 
@@ -15,22 +23,24 @@ Source: China Digital Times; [Address](https://chinadigitaltimes.net/chinese/202
 >This is the second report of “People” March cover “Doctor Wuhan”.
 
 
-A text message from Affin, the director of the emergency department of Wuhan Central Hospital, agreed to be interviewed at 5 am on March 1, and about half an hour later, at 5.32 am on March 1, her colleague and director of thyroid and breast surgery Jiang Xueqing was infected with New crown pneumonia died. Two days later, Mei Zhongming, deputy director of ophthalmology at the hospital, died. He and Li Wenliang were in the same department.
+<span id=newC>The</span> text message from Affin, the director of the emergency department of Wuhan Central Hospital, agree**ing** to be interviewed, <span id=newC>was sent</span> at 5 am on March 1. About half an hour later, at 5.32 am on March 1, her colleague and director of thyroid and breast surgery Jiang Xueqing was infected with New coronavirus pneumonia, died. Two days later, Mei Zhongming, deputy director of ophthalmology at the hospital, died. He and Li Wenliang were in the same department.
 
-As of March 9, 2020, 4 medical staff in the Wuhan Central Hospital have died of new crown pneumonia infection. Since the outbreak, this hospital, just a few kilometers away from the South China Seafood Market, has become the hospital with the largest number of employees in Wuhan. One, according to media reports, more than 200 people in the hospital were infected, including three deputy deans and multiple functional department directors. Multiple department directors are currently maintained with ECMO.
+As of March 9, 2020, 4 <span id="newC">members of the</span> medical staff of Wuhan Central Hospital have died of new coronavirus pneumonia infection. Since the outbreak, this hospital, just a few kilometers away from the <span id="newC">Huanan</span> Seafood Market, has become **one of** the hospitals in Wuhan with the largest number of employees **that are infected**. According to media reports, more than 200 employees in the hospital were infected, including three deputy deans and multiple working department directors. Multiple department directors are currently being maintained with ECMO(extracorporeal membrane oxygenation).
 
-The shadow of death hangs over this Wuhan’s largest tertiary hospital. A doctor told People in the large group of hospitals that almost no one spoke, but mourned and discussed in private.
+The shadow of death hangs over this, Wuhan’s largest tertiary hospital. A doctor told People[a news site – EB] that in the social media group of hospital staff, almost no one spoke publicly;they mourned and discussed in private.
 
-<span style="color:coral; font-weight:bold">There was a chance to avoid tragedy.</span> On December 30, 2019, Affin received a virus test report for patients with unknown pneumonia. She circled the word “SARS coronavirus” in red. When asked by a college student, she took the report and circulated it. To this fellow student who is also a doctor. That night, the report spread to doctor circles in Wuhan, and those who forwarded the report included the eight doctors who were disciplined by the police.
+<span style="color:coral; font-weight:bold">There was a chance to avoid tragedy.</span> On December 30, 2019, Affin received a virus test report for a patient with an unknown pneumonia. She circled the word “SARS coronavirus” in red. When asked by a college classmate who is also a doctor, she took a picture of the report and circulated it. That night, the report spread in doctor circles in Wuhan, and those who forwarded the report included the eight doctors who were disciplined by the police.
 
-This caused trouble for Affin. As the source of the transmission, she was interviewed by the hospital disciplinary committee and suffered “unprecedented and severe rebuke”, saying that she was making rumors as a professional.
+This caused trouble for Affin. As the original source of the information, she was interviewed by the hospital disciplinary committee and suffered an “unprecedented and severe reprimand”;it was said that **she was acting unprofessionally by creating false rumors**.
 
-In the afternoon of March 2nd, Affin received an interview with People in the Nanjing Road District of Wuhan Central Hospital. She was sitting alone in the emergency room office. The emergency department, which had admitted more than 1,500 patients a day, had returned to quiet. There was only one tramp lying in the emergency hall.
+In the afternoon of March 2nd, Affin **did** an interview with People in the Nanjing Road <span id="newC">location</span> of Wuhan Central Hospital. She was sitting alone in the emergency room office. The emergency department, which had **been** admitting more than 1,500 patients a day, had returned to quiet. There was only one tramp lying in the emergency hall.
 
-According to some previous reports, Affin was called “another female doctor who has been instructed to surface,” and some people called her a “whistleblower”. It was the “whistler”. During the interview, Affin mentioned the word “regret” several times, and she regretted that she did not continue to whistle after being interviewed. Especially for the deceased colleague,
+Some previous reports called Affin “another severely reprimanded female doctor who has emerged” and some people called her a “whistleblower”. <span id="newC">Affin corrected this; she said she was not a whistleblower, but the one who distributed the "whistles"</span>.
+
+During the interview, Affin mentioned the word “regret” several times, and **said** she deeply regretted that she hadn't continued to whistle **resoundingly** after she was reprimanded at a disciplinary review meeting. **She has especial regrets when it comes to her deceased coworkers.**
 <span style="color:coral; font-weight:bold">"If I had known that today, I wouldn't have cared about being criticized or not, I would have damned said everywhere, right?"</span>
 
-About Wuhan Central Hospital and Affin what have they experienced in the past two months or so? The following is what Affin told—
+What have Wuhan Central Hospital and Affin experienced in the past two months or so? The following is what Affin told **us**—
 
 ## Unprecedented reprimand
 
