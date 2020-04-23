@@ -4,6 +4,8 @@
 Source: China Digital Times; [Address](https://chinadigitaltimes.net/chinese/2020/03/%E6%88%88%E6%88%88%E7%82%B9%E5%95%8A-%E6%8E%A5%E5%8A%9B%E3%80%8A%E5%8F%91%E5%93%A8%E5%AD%90%E7%9A%84%E4%BA%BA%E3%80%8B%E8%8B%B1%E6%96%87%E7%89%88/)
 <cite>
 
+`Modifications on the original article marked in bold, coral color`
+
 >On December 30, 2019, Affin received a virus test report for patients with unknown pneumonia. She circled the word “SARS coronavirus” in red. When asked by a college student, she took the report and circulated it. To this fellow student who is also a doctor. That night, the report spread to doctor circles in Wuhan, and those who forwarded the report included the eight doctors who were disciplined by the police.
 
 >This caused trouble for Affin. As the source of the transmission, she was interviewed by the hospital disciplinary committee and suffered “unprecedented and severe rebuke”, saying that she was making rumors as a professional.
@@ -19,13 +21,14 @@ As of March 9, 2020, 4 medical staff in the Wuhan Central Hospital have died of 
 
 The shadow of death hangs over this Wuhan’s largest tertiary hospital. A doctor told People in the large group of hospitals that almost no one spoke, but mourned and discussed in private.
 
-Tragedy had a chance to avoid. On December 30, 2019, Affin received a virus test report for patients with unknown pneumonia. She circled the word “SARS coronavirus” in red. When asked by a college student, she took the report and circulated it. To this fellow student who is also a doctor. That night, the report spread to doctor circles in Wuhan, and those who forwarded the report included the eight doctors who were disciplined by the police.
+<span style="color:coral; font-weight:bold">There was a chance to avoid tragedy.</span> On December 30, 2019, Affin received a virus test report for patients with unknown pneumonia. She circled the word “SARS coronavirus” in red. When asked by a college student, she took the report and circulated it. To this fellow student who is also a doctor. That night, the report spread to doctor circles in Wuhan, and those who forwarded the report included the eight doctors who were disciplined by the police.
 
 This caused trouble for Affin. As the source of the transmission, she was interviewed by the hospital disciplinary committee and suffered “unprecedented and severe rebuke”, saying that she was making rumors as a professional.
 
 In the afternoon of March 2nd, Affin received an interview with People in the Nanjing Road District of Wuhan Central Hospital. She was sitting alone in the emergency room office. The emergency department, which had admitted more than 1,500 patients a day, had returned to quiet. There was only one tramp lying in the emergency hall.
 
-According to some previous reports, Affin was called “another female doctor who has been instructed to surface,” and some people called her a “whistleblower”. It was the “whistler”. During the interview, Affin mentioned the word “regret” several times, and she regretted that she did not continue to whistle after being interviewed. Especially for the deceased colleague, **“I knew today that I would criticize him for not criticizing,” Lao Tzu “Everywhere, right?”**
+According to some previous reports, Affin was called “another female doctor who has been instructed to surface,” and some people called her a “whistleblower”. It was the “whistler”. During the interview, Affin mentioned the word “regret” several times, and she regretted that she did not continue to whistle after being interviewed. Especially for the deceased colleague,
+<span style="color:coral; font-weight:bold">"If I had known that today, I wouldn't have cared about being criticized or not, I would have damned said everywhere, right?"</span>
 
 About Wuhan Central Hospital and Affin what have they experienced in the past two months or so? The following is what Affin told—
 
@@ -157,7 +160,7 @@ This cost is reflected in all aspects. In addition to those who died, those who 
 
 In our “Emergency Emergency Team”, people often exchange physical conditions. Some people ask that the heart rate is always 120 beats per minute. Does it matter? It definitely matters, and panic as soon as they move. This will affect them for life. Can’t heart failure? It’s hard to say. In the future, others can go hiking and traveling, they may not, and that is all possible.
 
-And Wuhan. You said that Wuhan is a lively place. Now it ’s quiet and quiet along the way. Many things ca n’t be bought and we have to support the whole country. A few days ago, a nurse of a medical team in Guangxi suddenly fell into a coma while at work, and was rescued. Later, a heartbeat occurred, but she was still in a coma. If she doesn’t come, she can have a good time at home, and this kind of accident will not happen. So, I think we owe everyone’s favor, really.
+And Wuhan. You said that Wuhan is a lively place. Now it ’s quiet and quiet along the way. Many things can’t be bought and we have to support the whole country. A few days ago, a nurse of a medical team in Guangxi suddenly fell into a coma while at work, and was rescued. Later, a heartbeat occurred, but she was still in a coma. If she doesn’t come, she can have a good time at home, and this kind of accident will not happen. So, I think we owe everyone’s favor, really.
 
 Having experienced this epidemic, many people in the hospital have been hit hard. Several medical staff below me have thoughts of resignation, including some backbones. Everyone’s previous concepts and common sense of this profession are inevitably a little shaken-is that you work so hard, right? Just like Jiang Xueqing, he works too hard, is too good for the patient, he is doing surgery every year and the New Year . Today, someone sent a WeChat written by Jiang Xueqing’s daughter, saying that her father’s time was all given to the patient.
 
@@ -165,4 +168,6 @@ I have had countless thoughts myself, have I returned home to be a housewife? Af
 
 The leader talked to me on the morning of February 21st. Actually, I would like to ask a few questions, such as, do you think that criticism was wrong that day? I hope to give me an apology. But I dare not ask. No one said sorry to me on any occasion. But I still feel that this time it is more clear that everyone still insists on their own independent thinking, because if someone wants to stand up and tell the truth, there must be someone, and the world must have a different voice, right?
 
-As a Wuhaner, which one of us does not love our own city? We now recall how extravagant happiness we lived in the most ordinary life. I now feel that holding the baby, going out to play with him on a slide, or going out to watch a movie with my husband, but it is not common in the past, but until now it is a kind of happiness, it is an unachievable happiness.
+As a Wuhaner, which one of us does not love our own city? We now recall how extravagant happiness we lived in the most ordinary life.
+<span style="color:coral; font-weight:bold">I now feel that holding the baby, going out to play with him on a slide, or going out to watch a movie with my husband, which is common in the past, are a kind of happiness, unachievable happiness.</span>
+<!-- I now feel that holding the baby, going out to play with him on a slide, or going out to watch a movie with my husband, but it is not common in the past, but until now it is a kind of happiness, it is an unachievable happiness. -->
