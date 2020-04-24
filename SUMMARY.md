@@ -1,8 +1,8 @@
 # Table of contents
 
 ## Preamble
-
 * [Initial page](README.md)
+* [Informations from videos](video_infos.md)
 
 ## 中文资料整合
 
