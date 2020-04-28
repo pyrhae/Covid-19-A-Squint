@@ -1,10 +1,9 @@
-This page used for collecting informations about covid-19 from videos, in the form of links and short comments.
+本页用来收集关于covid-19相关的视听信息，提供相关的链接及对链接的简单介绍。
 
-### The CCP Method:Chinese Communist Party's Global Agenda
+### 中共：CCP的全球战略
+[Youtube link：The CCP Method:Chinese Communist Party's Global Agenda](https://www.youtube.com/watch?v=NdYH-lyWnyY)
 
-[Youtube link](https://www.youtube.com/watch?v=NdYH-lyWnyY)
+### 比尔盖茨的警告
+2015年，比尔盖茨在TED的演讲上警告：人类没有为下次大流行病做好准备
 
-### The next outbreak? We’re not ready | Bill Gates
-Bill Gates warnd that we are not ready for the next epidemic on a TED lecture in 2015.
-
-[Youtube link](https://www.youtube.com/watch?v=6Af6b_wyiwI)
+[Youtube link：The next outbreak? We’re not ready | Bill Gates](https://www.youtube.com/watch?v=6Af6b_wyiwI)
