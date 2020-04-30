@@ -1,7 +1,6 @@
 # Coronavirus coverup is ‘China's Chernobyl moment,’ warn 100 politicians, experts
-<cite style="border: 2px solid grey">
-Source: GlobalNews, by Amanda Connolly, Posted April 14, 2020 ; [Address](https://globalnews.ca/news/6814940/china-coronavirus-open-letter/)
-<cite>
+> [!NOTE]
+> Source: GlobalNews, by Amanda Connolly, Posted April 14, 2020 ; [Address](https://globalnews.ca/news/6814940/china-coronavirus-open-letter/)
 
 Trying to cover up the coronavirus pandemic marks China‘s “Chernobyl moment,” according to a new [Open Letter](https://www.macdonaldlaurier.ca/communist-partys-rule-fear-endangers-chinese-citizens-world-%E5%85%B1%E4%BA%A7%E5%85%9A%E4%BE%9D%E9%9D%A0%E6%81%90%E5%90%93%E4%B8%BA%E4%B8%BB%E7%9A%84%E6%94%BF/).
 

@@ -18,7 +18,8 @@
     "todo",
     "copy-code-button",
     "expandable-chapters-small",
-    "donate"
+    "donate",
+    "flexible-alerts"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -70,6 +71,14 @@
       "button": "Donate",
       "alipayText": "支付宝打赏",
       "wechatText": "微信打赏"
+    },
+    "flexible-alerts": {
+      "style": "flat",
+      "comment": {
+        "label": "Comment",
+        "icon": "fa fa-comments",
+        "className": "info"
+      }
     }
   }
 }

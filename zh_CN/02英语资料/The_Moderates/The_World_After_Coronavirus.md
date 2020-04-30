@@ -1,8 +1,7 @@
 # The World After Coronavirus
 
-<cite style="border: 2px solid grey">
-Source: Financial Times, by Yuval Noah Harari March 20 2020; [Address](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
-<cite>
+> [!NOTE]
+> Source: Financial Times, by Yuval Noah Harari March 20 2020; [Address](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
 
 One comment which is liked by most totally says what I want to say to this Article.
 
