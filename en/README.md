@@ -1,5 +1,13 @@
 # Initial page
 
+> [!TIP|style:callout|label:What I record for：rememberance under oblivion|iconVisibility:hidden]
+> Human injustice as a general rule produces not martyrs but quasi-damned souls.
+> Beings who have fallen into this quasi-hell are like someone stripped and wounded by robbers. They have lost the clothing of character.
+>
+> If someone does me harm I must want this harm not to degrade me — this out of love for him who inflicted it upon me and so that he shall not really have done harm.
+> <br>
+> 			--[Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) *Gravity and Grace*
+
 On 23rd January 2020, news about the Wuhan lockdown spread on the internet. At that time, I was at home, in rural Hunan, hearing this news shook me to my core.
 
 Today, **the** 22nd April 2020, this disaster is still unfolding. I begin to record these events, considering them to be a turning point in China's history and also a milestone in modern human history.
