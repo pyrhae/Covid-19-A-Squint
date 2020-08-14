@@ -30,6 +30,3 @@
 * [温和派](02英语资料/The_Moderates/README.MD)
   * [冠状病毒后的世界](02英语资料/The_Moderates/The_World_After_Coronavirus.md)
 
-## 香港的衰落
-* [时间线](03香港的衰落/Timeline.md)
-* [为自由而死](03香港的衰落/Died_for_Freedom.md)

@@ -12,9 +12,3 @@ Second, I collect the articles related to the key point in some events.
 
 Finally, I collect the articles which reveal the evil of dictatorial govenment of China.
 
-# For the English Version
-I will try my best to translate all of the articles which are written in Chinese.
-
-However, my English isn't good enough. If you are interesting to help me, please let me know. Here is my most used email:
-
-pyrha@pm.me

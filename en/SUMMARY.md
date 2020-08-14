@@ -25,6 +25,3 @@
 * [The Moderates](chap02English_Materials/The_Moderates/README.MD)
   * [The World After Coronavirus](chap02English_Materials/The_Moderates/The_World_After_Coronavirus.md)
 
-## Descent of Hong Kong
-* [Timeline](chap03Descent_of_HK/Timeline.md)
-* [Died for Freedom](chap03Descent_of_HK/Died_for_Freedom.md)

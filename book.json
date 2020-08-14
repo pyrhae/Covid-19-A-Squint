@@ -1,6 +1,6 @@
 {
-  "title": "Chronicle of Wuhan Virus",
-  "author": "Pyrhae",
+  "title": "A Squint on Wuhan Virus",
+  "author": "K",
   "plugins": [
     "-lunr",
     "-search",
@@ -18,7 +18,6 @@
     "todo",
     "copy-code-button",
     "expandable-chapters-small",
-    "donate",
     "flexible-alerts"
   ],
   "pluginsConfig": {
@@ -63,14 +62,6 @@
     },
     "bibtex-indexed-cite": {
       "path": "/"
-    },
-    "donate": {
-      "wechat": "https://pyrhae.github.io/covid-19/wechat.png",
-      "alipay": "https://pyrhae.github.io/covid-19/alipay.jpg",
-      "title": "",
-      "button": "Donate",
-      "alipayText": "支付宝打赏",
-      "wechatText": "微信打赏"
     },
     "flexible-alerts": {
       "style": "flat",
