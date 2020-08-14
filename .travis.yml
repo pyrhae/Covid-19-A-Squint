@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=https://github.com/pyrhae/covid-19.git # 设置 github 地址
+    - REF=https://github.com/pyrhae/Covid-19-A-Squint.git # 设置 github 地址
