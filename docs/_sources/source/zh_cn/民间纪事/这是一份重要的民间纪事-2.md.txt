@@ -4,7 +4,7 @@ img{
     padding-left: (100% - width) / 2;
 }
 </style>
-# 这是一份重要的民间纪事。(2)
+# 这是一份重要的民间纪事(2)
 
 ## 1.20
 ![ignorant people](assets/markdown-img-paste-20200416223704517.png)

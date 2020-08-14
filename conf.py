@@ -20,7 +20,7 @@ html_theme_path = [stanford_theme.get_html_theme_path()]
 
 # -- Project information -----------------------------------------------------
 
-project = 'Covid-19: A Squint on Wuhan Virus'
+project = '<i>Covid-19: A Squint on Wuhan Virus</i>'
 copyright = '2020，Blonging to the Origin'
 author = 'K'
 
