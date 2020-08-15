@@ -1,6 +1,7 @@
 # 北京3名90后疫情志愿者因在Github分享被禁的冠状病毒资料被拘
 
-> 文/Phoebe Zhang ；原文发表时间：2020/04/25； [转自msn新闻](https://www.msn.com/zh-hk/news/englishnews/chinese-activists-detained-after-sharing-censored-coronavirus-material-on-crowdsourcing-site-github/ar-BB13cTIG?li=AAGysYC)；[原文地址](https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus); 翻译/K，[翻译参考:阿波罗新闻网](https://www.aboluowang.com/2020/0426/1442334.html)
+`文/Phoebe Zhang； 原文发表时间：2020/04/25； 翻译/K`
+> [转自msn新闻](https://www.msn.com/zh-hk/news/englishnews/chinese-activists-detained-after-sharing-censored-coronavirus-material-on-crowdsourcing-site-github/ar-BB13cTIG?li=AAGysYC)；[原文地址](https://www.scmp.com/news/china/politics/article/3081569/chinese-activists-detained-after-sharing-censored-coronavirus); [翻译参考:阿波罗新闻网](https://www.aboluowang.com/2020/0426/1442334.html)
 
 根据他们身边的人透露，三名帮助在Github(世界上最大的开源网站)上收集有关被审查的Covid-19文章 的中国志愿者，被警察拘留。拘留地点未知。
 

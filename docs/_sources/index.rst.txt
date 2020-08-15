@@ -65,6 +65,12 @@
 
    /source/zh_cn/国外风声/Chinas_Chernobyl_moment
    /source/zh_cn/国外风声/The_World_After_Coronavirus
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 关于本项目
+
+   /readme
    
    
 
