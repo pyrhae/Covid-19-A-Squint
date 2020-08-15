@@ -1,4 +1,4 @@
-.. *Covid-19: A Squint on Wuhan Virus* documentation master file, created by
+.. Covid-19: A Squint on Wuhan Virus documentation master file, created by
    sphinx-quickstart on Fri Aug 14 10:23:21 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -65,6 +65,12 @@
 
    /source/zh_cn/国外风声/Chinas_Chernobyl_moment
    /source/zh_cn/国外风声/The_World_After_Coronavirus
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 其他
+
+   /source/zh_cn/其他/video_infos
 
 .. toctree::
    :maxdepth: 1
