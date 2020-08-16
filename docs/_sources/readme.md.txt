@@ -20,7 +20,7 @@ Finally, I collect the articles which reveal the evil of dictatorial govenment o
 
 ## For the English Version
 
-I will try my best to translate all of the articles which are written in Chinese.
+Having been tranlating the articles slowly, I will try my best to translate all of the articles which are written in Chinese.
 
 However, my English isn't good enough. If you are interesting to help me, or you have more inspiring ideas about the truth, please let me know. Here is my most used email:
 
