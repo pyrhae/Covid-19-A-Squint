@@ -24,6 +24,7 @@ project = 'Covid-19: A Squint on Wuhan Virus'
 copyright = '2020，Blonging to the Origin'
 author = 'K'
 
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
